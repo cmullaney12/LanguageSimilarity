@@ -1,0 +1,14 @@
+English text_files/english1.txt
+Unknown text_files/english2.txt
+French text_files/french1.txt
+Unknown text_files/french2.txt
+Spanish text_files/spanish1.txt
+Spanish text_files/spanish2.txt
+Croatian text_files/hr1.txt
+Unknown text_files/hr2.txt
+Unknown text_files/english3.txt
+Unknown text_files/french3.txt
+Dutch text_files/nl1.txt
+Romanian text_files/ro1.txt
+German text_files/german1.txt
+Unknown text_files/italian.txt
