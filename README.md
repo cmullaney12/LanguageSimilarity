@@ -1,5 +1,5 @@
 # Language Similarity
-This project accepts labeled documents containing text from different languages, and calculates cosine similarity, using trigram frequencies, to measure similarty between a known language and an unknown document.
+This project accepts labeled documents containing text from different languages, and calculates cosine similarity, using trigram frequencies, to measure similarity between a known language and an unknown document.
 
 ## Input.txt
 A file containing languages and associated filenames. A file may be labeled as 'Unknown', and will be compared to all other known languages from the input.
@@ -23,7 +23,7 @@ Ex. output:
 
 # To run:
 
-To run this code, first you must make sure you have created an input file that correctly references existing text documents
+To run this code, first you must make sure you have created an input file that correctly references existing text documents.
 
 Next, run:
     ```python LanguageSimilarity.py <input_name> <output_name> ```
